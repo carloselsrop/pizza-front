@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>
+    <div class="container mx-auto mt-10">
       <Banner />
     </div>
     <div>

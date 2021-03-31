@@ -9,7 +9,7 @@
             <div>DE TU ORDEN</div>
           </div>
           <div class="flex justify-center">
-            <button class="text-red-500 w-full text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg">
+            <button class="text-red-500 w-full text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg focus:outline-none">
               CONSULTA
             </button>
           </div>
@@ -23,7 +23,7 @@
             <div>AL CLIENTE</div>
           </div>
           <div class="flex justify-center">
-            <button class="text-red-500 w-full px-2 text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg">
+            <button class="text-red-500 w-full px-2 text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg focus:outline-none">
               CONTÁCTANOS
             </button>
           </div>
@@ -37,7 +37,7 @@
             <div>PROMESA</div>
           </div>
           <div class="flex justify-center">
-            <button class="text-red-500 w-full px-2 text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg">
+            <button class="text-red-500 w-full px-2 text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg focus:outline-none">
               CONÓCENOS
             </button>
           </div>
@@ -51,7 +51,7 @@
             <div>NOSOTROS</div>
           </div>
           <div class="flex justify-center">
-            <button class="text-red-500 w-full px-2 text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg">
+            <button class="text-red-500 w-full px-2 text-lg font-mono font-bold hover:bg-green-700 hover:text-white rounded-lg focus:outline-none">
               ENVÍA TU CV
             </button>
           </div>
