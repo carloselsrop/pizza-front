@@ -22,19 +22,25 @@
           <span
             class="cursor-default text-white text-xl font-bold rounded-xl"
           >|</span>
-          <button
-            class="uppercase rounded-md px-4 py-1 text-white font-mono text-lg font-extrabold hover:bg-white hover:text-green-700 focus:outline-none"
-          >
-            Menú
-          </button>
+          <NuxtLink to="/menu">
+            <button
+              class="uppercase rounded-md px-4 py-1 text-white font-mono text-lg font-extrabold hover:bg-white hover:text-green-700 focus:outline-none"
+            >
+              Menú
+            </button>
+          </NuxtLink>
           <span
             class="cursor-default text-white text-xl font-bold rounded-xl"
           >|</span>
-          <button
-            class="uppercase rounded-md px-4 py-1 text-white font-mono text-lg font-extrabold hover:bg-white hover:text-green-700 focus:outline-none"
+          <NuxtLink
+            to="/restaurants"
           >
-            Restaurantes
-          </button>
+            <button
+              class="uppercase rounded-md px-4 py-1 text-white font-mono text-lg font-extrabold hover:bg-white hover:text-green-700 focus:outline-none"
+            >
+              Restaurantes
+            </button>
+          </NuxtLink>
           <span
             class="cursor-default text-white text-xl font-bold rounded-xl"
           >|</span>

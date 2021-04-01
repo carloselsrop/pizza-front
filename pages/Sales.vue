@@ -11,14 +11,6 @@
       <PromotionCard />
       <PromotionCard />
       <PromotionCard />
-      <PromotionCard />
-      <PromotionCard />
-      <PromotionCard />
-      <PromotionCard />
-      <PromotionCard />
-      <PromotionCard />
-      <PromotionCard />
-      <PromotionCard />
     </div>
   </div>
 </template>
